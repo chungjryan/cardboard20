@@ -13,6 +13,7 @@ The design philosophy is to minimize cost as much as possible, to make the build
 2. This means that the mountaing plate is also the chassis
 3. Instead of providing a PCB, the user is responsible for wiring the matrix and programming the microcontroller
 4. If the 5x4 layout is cost prohibitive, we can use other dimensions
+5. Both ALPS and MX mounts provided
 
 ## Parts/Materials List for Build
 1. Cardboard20 Chassis/Plate
