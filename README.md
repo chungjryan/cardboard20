@@ -4,7 +4,9 @@ The mechanical keyboard community loves doing DIY projects, i.e. keyboard builds
 
 These keyboards often prioritize form over function, as personalization is a large component of the appeal. Our project will prioritize function over form with the appeal coming from a strikingly low cost. 
 
-The Cardboard20 is inspired by products such as nintendo labo, or google cardboard, being a single sheet of cardboard cut to take the shape similar to a number pad when folded, with a 5x4 matrix. This keyboard will be hand wired and soldered to a microcontroller that the end user will program themselves. This aligns with the DIY nature that draws the attention of the mechanical keyboard community
+The Cardboard20 is inspired by products such as nintendo labo, or google cardboard, being a single sheet of cardboard cut to take the shape similar to a number pad when folded, with a 5x4 matrix. This keyboard will be hand wired and soldered to a microcontroller that the end user will program themselves. This aligns with the DIY nature that draws the attention of the mechanical keyboard community. 
+
+The design philosophy is to minimize cost as much as possible, to make the build as accesible as possible to hobbyists. 
 
 ## Project Design
 1. The material used is cardboard, and the entire product will be made out of a single sheet
