@@ -16,12 +16,13 @@ The design philosophy is to minimize cost as much as possible, to make the build
 5. ALPS plate will come in the future
 
 ## Parts/Materials List for Build
-1. Cardboard20 (or printout)
+1. Cardboard20 (or stencil)
 2. Electrical Wire + Solder
-3. Microcontroller (Raspberry Pi Pico Code Provided)
+3. Microcontroller (Raspberry Pi Pico Code Supported)
 4. Keycaps
 5. Switches
+6. Diodes
 
 ## Pi Pico
-The Rpi pico microntroller uses the microPython coding language, and was selected for its ease of programming and low cost.
+The Rpi pico microntroller will utilize [CircutPython](https://circuitpython.org/) in addition to [KMK Firmware](https://github.com/KMKfw/kmk_firmware/tree/main).
 
