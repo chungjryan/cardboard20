@@ -32,4 +32,7 @@ The Rpi pico microntroller will utilize [CircutPython](https://circuitpython.org
   <img src="https://github.com/chungjryan/cardboard20/assets/144605804/bec3510c-d8fb-4d95-b4fe-71a797413041" width="300" height="400">
 </p>
 
+## Build Guide
+The build guide can be found [here](BuildGuide.md)
+
 
