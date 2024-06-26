@@ -8,14 +8,19 @@ from kmk.scanners import DiodeOrientation
 
 keyboard = KMKKeyboard()
 
-keyboard.col_pins = (board.GP16, board.GP17, board.GP14, board.GP13,)
-keyboard.row_pins = (board.GP15,)
+keyboard.col_pins = (board.GP22, board.GP3, board.GP7, board.GP11,)
+keyboard.row_pins = (board.GP16, board.GP17, board.GP18, board.GP19, board.GP20,)
 keyboard.diode_orientation = DiodeOrientation.COL2ROW
 
 keyboard.keymap = [
-    [KC.KP_0, KC.NUMLOCK, KC.KP_DOT, KC.ENTER ]
+    [
+        KC.NUMLOCK, KC.KP_SLASH, KC.KP_ASTERISK, KC.KP_MINUS,
+        KC.KP_7, KC.KP_8, KC.KP_9, KC.KP_PLUS,
+        KC.KP_4, KC.KP_5, KC.KP_6, KC.KP_PLUS,
+        KC.KP_1, KC.KP_2, KC.KP_3, KC.KP_ENTER,
+        KC.KP_0, KC.KP_0, KC.KP_DOT, KC.KP_ENTER,
+    ]
 ]
 
 if __name__ == '__main__':
     keyboard.go()
-
